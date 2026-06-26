@@ -1,0 +1,10 @@
+{"customer_id": 1, "first_name": "Amina", "last_name": "Khan", "email": "Amina.Khan@Example.com", "signup_date": "2024-06-12", "country": "US"}
+{"customer_id": 2, "first_name": "Daniel", "last_name": "Silva", "email": "daniel.silva@example.com", "signup_date": "2024-07-01", "country": "BR"}
+{"customer_id": 3, "first_name": "Susan", "last_name": "Lopez", "email": "susan.lopez@example.com", "signup_date": "2024-05-20", "country": "CA"}
+{"customer_id": 4, "first_name": "John", "last_name": "Doe", "email": "john.doe@example.com", "signup_date": "2024-02-14", "country": "US"}
+{"customer_id": 5, "first_name": "Mark", "last_name": "Bauer", "email": "mark.bauer@example.com", "signup_date": "2024-06-02", "country": "DE"}
+{"customer_id": 6, "first_name": "Nalini", "last_name": "Patel", "email": "nalini.patel@example.com", "signup_date": "2024-04-01", "country": "IN"}
+{"customer_id": 7, "first_name": "Li", "last_name": "Wei", "email": "li.wei@example.com", "signup_date": "2024-03-18", "country": "CN"}
+{"customer_id": 8, "first_name": "Olga", "last_name": "Ivanova", "email": "olga.ivanova@example.com", "signup_date": "2024-01-23", "country": "RU"}
+{"customer_id": 9, "first_name": "Maria", "last_name": "Gonzalez", "email": "maria.gonzalez@example.com", "signup_date": "2024-08-05", "country": "MX"}
+{"customer_id": 10, "first_name": "James", "last_name": "Smith", "email": "james.smith@example.com", "signup_date": "2024-09-07", "country": "GB"}

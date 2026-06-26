@@ -1,0 +1,10 @@
+{"order_id": 101, "shipping_city": "Lagos", "shipping_state": "LA", "payment_type": "Credit Card", "order_status": "shipped"}
+{"order_id": 102, "shipping_city": "São Paulo", "shipping_state": "SP", "payment_type": "PayPal", "order_status": "pending"}
+{"order_id": 103, "shipping_city": "Toronto", "shipping_state": "ON", "payment_type": "Credit Card", "order_status": "delivered"}
+{"order_id": 104, "shipping_city": "San Francisco", "shipping_state": "CA", "payment_type": "Debit Card", "order_status": "cancelled"}
+{"order_id": 105, "shipping_city": "Berlin", "shipping_state": "BE", "payment_type": "Credit Card", "order_status": "shipped"}
+{"order_id": 106, "shipping_city": "Mumbai", "shipping_state": "MH", "payment_type": "UPI", "order_status": "delivered"}
+{"order_id": 107, "shipping_city": "Beijing", "shipping_state": "BJ", "payment_type": "Credit Card", "order_status": "shipped"}
+{"order_id": 108, "shipping_city": "London", "shipping_state": "LN", "payment_type": "Debit Card", "order_status": "pending"}
+{"order_id": 109, "shipping_city": "Mexico City", "shipping_state": "CDMX", "payment_type": "PayPal", "order_status": "delivered"}
+{"order_id": 110, "shipping_city": "Madrid", "shipping_state": "MD", "payment_type": "Credit Card", "order_status": "shipped"}
